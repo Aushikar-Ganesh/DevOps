@@ -1,4 +1,4 @@
-// A simple alarm clock for JAVA beginners
+// A simple alarm clock for JAVA beginnerss
  
 import java.util.*; 
 import java.time.format.DateTimeFormatter;  
